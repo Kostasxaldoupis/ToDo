@@ -1,4 +1,4 @@
-# Todo App ✅
+# Todo App 
 
 A simple todo application built with React.
 
@@ -12,7 +12,6 @@ https://kostatodo.netlify.app
 
 ## Tech Stack
 - React
-- [Your other libraries]
 
 ## Installation
 ```bash
